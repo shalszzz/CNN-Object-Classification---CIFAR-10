@@ -13,3 +13,5 @@ learned_filters.png — Image: First-layer convolutional filter visualization di
 training_curves.png — Image: Accuracy-vs-epoch plot illustrating learning progression from roughly 45% to 80.03% across 30 training epochs.
 
 accuracy_vs_loss.png — Image: Dual-axis chart showing the inverse relationship between rising accuracy and decreasing loss during training.
+
+CIFAR_10.ipynb and cifar_10.py are the code in notebook form and script form respectively
