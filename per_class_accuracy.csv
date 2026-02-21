@@ -1,0 +1,11 @@
+Class,Accuracy (%),Most Common Misclassification
+airplane,76.20%,ship
+automobile,90.20%,truck
+bird,66.60%,cat
+cat,68.60%,dog
+deer,80.80%,cat
+dog,68.80%,cat
+frog,87.10%,cat
+horse,86.10%,deer
+ship,93.00%,airplane
+truck,87.50%,automobile

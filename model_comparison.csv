@@ -1,0 +1,4 @@
+Model,Accuracy (%),Training Time
+Proposed Lightweight CNN,80.49%,~72 minutes
+Random Forest,40.77%,34.0 seconds
+SVM,47.66%,326.1 seconds
