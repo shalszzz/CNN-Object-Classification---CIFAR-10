@@ -1,5 +1,12 @@
 # CNN-Object-Classification---CIFAR-10
 
+
+Project Overview
+
+This project implements a lightweight Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset. The model achieves 80.03% test accuracy using only ~1.2 million parameters, making it efficient for resource-constrained environments.
+
+CIFAR_10.ipynb and cifar_10.py are the code in notebook form and script form respectively
+
 best_model.pth — Model: Trained CNN weights achieving 80.03% accuracy on CIFAR-10; compact file size (~3.2 MB) suitable for quick loading and inference.
 
 model_comparison.csv — Data: Comparison table evaluating CNN vs Random Forest vs SVM, including overall accuracy metrics and training time analysis.
@@ -14,4 +21,6 @@ training_curves.png — Image: Accuracy-vs-epoch plot illustrating learning prog
 
 accuracy_vs_loss.png — Image: Dual-axis chart showing the inverse relationship between rising accuracy and decreasing loss during training.
 
-CIFAR_10.ipynb and cifar_10.py are the code in notebook form and script form respectively
+
+
+
